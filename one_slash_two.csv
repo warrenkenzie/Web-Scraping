@@ -1,0 +1,48 @@
+id,Event,Date,Time,Home_odds,Draw_odds,Away_odds,Implied_Prob
+4160,Ulsan vs Incheon,17 Mar 2024,3.30pm,1.85,3.1,3.8,112.62790804386728
+5602,Volendam vs Alkmaar,17 Mar 2024,7.15pm,,,,
+7678,MVV Maastricht vs Roda,17 Mar 2024,7.15pm,3.7,3.8,1.7,112.16634591247595
+1341,Juventus vs Genoa,17 Mar 2024,7.30pm,1.45,3.7,6.5,111.3771596530217
+2968,Brest vs Lille,17 Mar 2024,8.00pm,2.4,2.8,2.85,112.46867167919801
+7589,Hamburg vs Wehen Wiesbaden,17 Mar 2024,8.30pm,1.42,4.5,5.2,111.87552666425906
+7590,Hertha Berlin vs Schalke 04,17 Mar 2024,8.30pm,2.2,3.3,2.7,112.7946127946128
+7584,Karlsruhe vs Magdeburg,17 Mar 2024,8.30pm,1.92,3.5,3.0,113.98809523809523
+426,Chelsea vs Leicester,17 Mar 2024,8.45pm,1.37,4.4,5.5,113.90179163901793
+1584,Sevilla vs Celta de Vigo,17 Mar 2024,9.00pm,1.9,3.1,3.6,112.66742124127522
+7034,Leganes vs Mirandes,17 Mar 2024,9.00pm,1.7,3.1,4.8,111.91492726122706
+5606,Heerenveen vs Feyenoord,17 Mar 2024,9.30pm,6.0,4.3,1.4,111.35105204872646
+5697,Utrecht vs Nijmegen,17 Mar 2024,9.30pm,1.87,3.4,3.5,111.45912910618793
+387,West Ham vs Aston Villa,17 Mar 2024,10.00pm,2.45,3.4,2.4,111.89475790316126
+1330,Verona vs Milan,17 Mar 2024,10.00pm,4.5,3.6,1.6,112.5
+2957,Clermont vs Le Havre,17 Mar 2024,10.00pm,2.5,3.0,2.55,112.54901960784314
+2977,Monaco vs Lorient,17 Mar 2024,10.00pm,1.28,5.0,8.0,110.625
+2980,Reims vs Metz,17 Mar 2024,10.00pm,1.53,3.7,5.2,111.61727338197926
+1454,AIK Stockholm vs Djurgarden,17 Mar 2024,10.00pm,2.6,3.05,2.45,112.06475023805234
+1146,Freiburg vs Leverkusen,17 Mar 2024,10.30pm,5.2,4.1,1.45,112.58653037458757
+1894,Leeds vs Millwall,17 Mar 2024,11.00pm,1.28,4.7,9.0,110.51270685579195
+6048,Coquimbo Unido vs Colo Colo,17 Mar 2024,11.00pm,3.4,3.4,1.87,112.29946524064172
+6052,Huachipato vs Copiapo,17 Mar 2024,11.00pm,1.55,3.7,4.8,112.37648939261842
+1508,UD Las Palmas vs Almeria,17 Mar 2024,11.15pm,1.8,3.3,3.8,112.17437533227006
+1503,Villarreal vs Valencia,17 Mar 2024,11.15pm,1.95,3.2,3.2,113.78205128205127
+7023,Ferrol vs Valladolid,17 Mar 2024,11.15pm,2.85,2.8,2.4,112.46867167919801
+490,Manchester Utd vs Liverpool,17 Mar 2024,11.30pm,3.6,3.9,1.7,112.24233283056813
+5694,Sparta Rotterdam vs Ajax,17 Mar 2024,11.45pm,3.05,3.3,2.03,112.35099929277432
+2959,Rennes vs Marseille,18 Mar 2024,12.05am,2.35,3.2,2.6,112.26472995090016
+1162,Dortmund vs E Frankfurt,18 Mar 2024,12.30am,1.55,4.0,4.4,112.24340175953078
+1365,Atalanta vs Fiorentina,18 Mar 2024,1.00am,1.85,3.4,3.5,112.03724733136498
+1324,Roma vs Sassuolo,18 Mar 2024,1.00am,1.4,4.2,6.5,110.62271062271063
+1581,Vallecano vs Real Betis,18 Mar 2024,1.30am,2.4,2.9,2.8,111.86371100164206
+7033,Elche vs Albacete,18 Mar 2024,1.30am,1.63,3.3,5.0,111.65272355456403
+7027,Real Zaragoza vs Espanyol,18 Mar 2024,1.30am,2.5,2.75,2.8,112.07792207792208
+4696,NE Revolution vs FC Cincinnati,18 Mar 2024,2.00am,2.25,3.4,2.6,112.31774761186526
+5611,PSV vs Twente Enschede,18 Mar 2024,3.00am,1.37,4.4,6.5,111.10458884181513
+1343,Inter vs Napoli,18 Mar 2024,3.45am,1.53,3.8,5.0,111.67526659786722
+2978,Montpellier vs Paris SG,18 Mar 2024,3.45am,4.8,4.2,1.48,112.2104247104247
+1512,Atletico Madrid vs Barcelona,18 Mar 2024,4.00am,2.1,3.2,2.9,113.35180623973726
+6050,Palestino Chile vs Union La Calera,18 Mar 2024,5.00am,1.65,3.5,4.3,112.43330313097755
+4669,Atlanta Utd vs Orlando City,18 Mar 2024,7.00am,1.75,3.6,3.7,111.94766194766194
+6196,Club Atlas vs Monterrey,18 Mar 2024,7.00am,3.2,3.2,2.0,112.5
+6051,Univ Catolica vs Audax Italiano,18 Mar 2024,7.30am,2.2,3.2,2.8,112.41883116883118
+6198,San Luis vs Pachuca,18 Mar 2024,9.00am,2.45,3.4,2.4,111.89475790316126
+6197,Toluca vs UNAM Mexico,18 Mar 2024,9.00am,1.8,3.5,3.6,111.90476190476191
+7050,FC Andorra vs Amorebieta,19 Mar 2024,3.30am,1.72,3.05,4.7,112.20301587430343
