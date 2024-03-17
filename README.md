@@ -11,3 +11,7 @@ To run this bot. You would need to install all the required packages
 - Selenium
 - Pandas
 Once run, the bot will run and will export the data in the form of 2 csv files.
+
+## Credits
+I was inspired by a youtube video to make this
+https://www.youtube.com/watch?v=2kDTwP6SBx4
